@@ -3,7 +3,7 @@ public class App {
 
 	public static void main(String[] args) {
 
-		// Defini o vetor a ser ordenado e imprime na tela
+		// Define o vetor a ser ordenado e imprime na tela
 		System.out.print("Vetor 1: ");
 		int[] vetor = { 3, 6, 8, 1, 4, 9, 0 };
 		imprimeVetor(vetor);
@@ -13,7 +13,7 @@ public class App {
 		System.out.print("\n\n\t1 - Selection Sort:");
 		imprimeVetor(vetor);
 
-		// Defini o vetor a ser ordenado e imprime na tela
+		// Define o vetor a ser ordenado e imprime na tela
 		System.out.print("\n\nVetor 2: ");
 		int[] vetor2 = { 3, 6, 8, 1, 4, 9, 0 };
 		imprimeVetor(vetor2);
