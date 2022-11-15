@@ -91,6 +91,6 @@ public class App {
 		for (int i = 0; i < vetor.length - 1; i++) {
 			System.out.print(vetor[i] + ", ");
 		}
-		System.out.println(vetor[vetor.length - 1] + "]");
+		System.out.println(vetor[vetor.length - 1] + " ]");
 	}
 }
